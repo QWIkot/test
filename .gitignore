@@ -89,3 +89,5 @@ fastlane/test_output
 
 iOSInjectionProject/
 /.DS_Store
+/autocomplete.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/autocomplete.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
